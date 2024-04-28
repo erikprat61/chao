@@ -1,4 +1,4 @@
-namespace chao;
+namespace Chao;
 
 public class Worker : BackgroundService
 {

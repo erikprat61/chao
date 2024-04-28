@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chao", "chao.csproj", "{77879D05-C553-455F-920A-B5C0CC76283B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chao", "Chao\Chao.csproj", "{8AD775CB-25FB-443D-839D-A0D7903C46CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{77879D05-C553-455F-920A-B5C0CC76283B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77879D05-C553-455F-920A-B5C0CC76283B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77879D05-C553-455F-920A-B5C0CC76283B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77879D05-C553-455F-920A-B5C0CC76283B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD775CB-25FB-443D-839D-A0D7903C46CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD775CB-25FB-443D-839D-A0D7903C46CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD775CB-25FB-443D-839D-A0D7903C46CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD775CB-25FB-443D-839D-A0D7903C46CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9AC67B5B-BB2C-4C0C-81CB-72BE46E00795}
+		SolutionGuid = {7458535A-D05D-4787-A1CE-23F8E296F6A7}
 	EndGlobalSection
 EndGlobal

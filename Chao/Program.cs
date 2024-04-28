@@ -1,4 +1,4 @@
-using chao;
+using Chao;
 
 var builder = Host.CreateApplicationBuilder(args);
 builder.Services.AddHostedService<Worker>();

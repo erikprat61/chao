@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-chao-38e9abff-ea53-43a9-a2d6-4192c3eddfd5</UserSecretsId>
+    <UserSecretsId>dotnet-Chao-44201d65-d6e3-4e15-9a6e-5ecfda5853e0</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
